@@ -1,8 +1,17 @@
-# Sobre mi
+# 💻 Programación 1  
+**Tecnicatura Universitaria en Programación**  
+📍 *Universidad Tecnológica Nacional*  
 
-### Soy Facundo, un chico apasionado por la tecnologia que le gusta experimentar y probar cosas nuevas, tengo 20 años, vivo en Buenos Aires, Argentina, y me encanta programar, juntarme con amigos y hacer deporte.
+## ✨ Estudiante  
+- **Nombre:** Pettersson, Facundo  
+- **Comisión:** 19 
 
-## Sobre el repositorio
+## 📂 Descripción del Repositorio  
+Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
 
-### Vas a encontrar todos los trabajos practicos de la carrera, en donde voy a ir practicando y puliendo mis conocimientos a medida que pase el tiempo, lo ideal es que este todo organizado para que mi yo del futuro me lo pueda agradecer. 
+📌 **Estructura del repositorio:**  
+- Cada trabajo está organizado en carpetas individuales.  
+- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
+- Se busca mantener un código limpio, ordenado y bien documentado.  
+
 
